@@ -1,5 +1,5 @@
 import 'dart:math';
-// 1
+// 1 author Aizhan
 // Write a Dart program that generates the running product of elements in an iterable.
 
 // void main() {
